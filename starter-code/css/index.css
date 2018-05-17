@@ -1,0 +1,176 @@
+.img-proyect{
+    height: auto;
+    max-width: 100%;
+}
+.titleproyects{
+    width: 100%;
+}
+.middle{
+    background-color: #ed564b;
+    margin: 0;
+    width: 100%;
+}
+.circle{
+    border: 5px solid #fff;
+    background: transparent;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    display: block;
+    line-height: 65px;
+    text-align: center;
+    margin: 0px auto;
+    font-size: 20px;
+}
+.circle i{
+    color: white;
+    margin: 20px;
+}
+.middlecenter{
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+.over{
+    background: url("../img/overlay.png");
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    z-index: 100;
+}
+.ovtop{
+    z-index: 101;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #ed564b;
+}
+.ico{
+    font-size: 11px;
+}
+.navbar-brand{
+    font-weight: 800;
+    font-size: 4vh;
+    margin-right: 20vh;
+    margin-left: 10vh;
+}
+.navbar{
+    padding-left: 7vh;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #ed564b;
+}
+.textocarousel{
+    width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -400px;
+    text-align: center;
+    z-index: 120;
+    color: #fff;
+}
+.textocarousel h2{
+    text-transform: uppercase;
+    font-size: 36px;
+    color: #fff;
+}
+.car{
+    background: rgba(255,255,255,0.2);
+    display: block;
+    text-transform: uppercase;
+    color: #fff;
+    width: 150px;
+    border: 1px solid #fff;
+    padding: 5px 0px;
+    margin: 10px auto;
+    font-weight: bold;
+    color: #fff!important;
+    cursor: pointer;
+}
+.arrow{
+    font-size: 8vh;
+    margin-top: 22px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    width: 80px;
+    height: 115px;
+    background-color: #ed564b;
+}
+.carousel-control-prev-icon{
+    background-image: none;
+}
+.carousel-control-next-icon{
+    background-image: none;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 4%;
+}
+.articles-section{
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.arti a{
+    color: #f4473a;;
+}
+h3{
+    font-size: 16px;
+    font-weight: bold;
+}
+.porjectp{
+    font-weight: bold;
+    color: #aaa;
+}
+.fott{
+    padding: 20px 0px 40px 0px;
+    background: #3b3b3b;
+    border-top: 5px solid #ed564b;
+}
+.titlepfot{
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px 0px;
+    color: #fff;
+    text-transform: uppercase; 
+}
+.text{
+    color: #aaa;
+    padding: 0;
+}
+.text li{
+    line-height: 18px;
+    clear: left;
+    list-style-type: none;
+    color: #aaa;
+    margin: 0;
+    padding: 0px 0px;
+    border-bottom: 1px dotted rgba(255,255,255,.2);
+}
+.text li a{
+    text-decoration: none;
+}
+.ulsub{
+    color: #aaa;
+    padding: 7px 0px 7px 0px;
+    display: block;
+}
+.ulsub:hover{
+    color: #fff;
+}
+footer{
+    padding: 10px 0px;
+    background: #292929;
+    font-size: 12px;
+    color: #fff;
+}
+.txt{
+    text-decoration: none;
+    color: #fff;
+}
+.txt:hover{
+    text-decoration: none;
+    color: #fff;
+}
